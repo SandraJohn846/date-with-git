@@ -1,0 +1,68 @@
+[33mcommit 07512559c51fe2b16c9af88c2bf0176ebcb7c27b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sandra <email>
+Date:   Fri Jul 12 16:24:22 2024 +0530
+
+    again modified
+
+[33mcommit c3a3f9595ddb0feab20b64c7086e975b7d2b4534[m
+Merge: 435caa9 c669c50
+Author: sandra <email>
+Date:   Tue Jul 9 13:26:43 2024 +0530
+
+    confict fixed
+
+[33mcommit 435caa90403c98ac97dd9c8776ee788ad38db96f[m
+Author: sandra <email>
+Date:   Tue Jul 9 13:19:57 2024 +0530
+
+    negative answer added
+
+[33mcommit c669c50238a28c48f9a25410f9d0d5b79ca2c1e5[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: sandra <email>
+Date:   Tue Jul 9 13:17:39 2024 +0530
+
+    positive answer added
+
+[33mcommit 309813130a434d180b3635b8a2bef826f6a4f4a9[m
+Merge: 8da5736 3f13004
+Author: sandra <email>
+Date:   Tue Jul 9 12:57:50 2024 +0530
+
+    Merge branch 'feature'i
+    separated branch merged
+
+[33mcommit 3f13004dbcd95931a6c5a7288ca8346df037bc48[m
+Author: sandra <email>
+Date:   Tue Jul 9 12:49:43 2024 +0530
+
+    hello file modified
+
+[33mcommit 8da573693b26e5f78c7a5283e9cfcbbdfd2761bc[m
+Author: sandra <email>
+Date:   Tue Jul 9 12:45:22 2024 +0530
+
+    hey file modified
+
+[33mcommit 1247b2e3e1ee3f92455dce4f854087428a62d956[m
+Author: sandra <email>
+Date:   Tue Jul 9 12:09:38 2024 +0530
+
+    hey file edited
+
+[33mcommit 0970f26b9afeb4e96b8939af31678c50eaa98b4a[m
+Author: sandra <email>
+Date:   Tue Jul 9 11:56:38 2024 +0530
+
+    second commit added
+
+[33mcommit 17714fd76c89687d5184f4af9aa85edb1861170e[m
+Author: sandra <sandrachristinajohn846@gmail.com>
+Date:   Fri Jul 5 15:23:48 2024 +0530
+
+    add some message
+
+[33mcommit 673ff5ab90b287bc49cadcf52d69cbbd96cb7a04[m
+Author: sandra <sandrachristinajohn846@gmail.com>
+Date:   Fri Jul 5 15:12:59 2024 +0530
+
+    initial commit
